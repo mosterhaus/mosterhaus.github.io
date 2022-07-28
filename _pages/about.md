@@ -18,7 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an assistant professor in econometrics at the Department of Economics, Econometrics and Finance, University of Groningen. I got my PhD from Heinrich-Heine-University Düsseldorf, which was awarded with the [prize for the best dissertation at the Faculty of Business Administration and Economics in 2021 by the Kreissparkasse Düsseldorf](https://www.hhu.de/en/news-article/page?tx_news_pi1%5Bnews%5D=35660&cHash=a1027189334451aa2ca4f4cb22909f3f).
+My research interest is at the intersection of econometrics and empirical industrial organization/quantitative marketing. More specifically, my research studies the nonparametric estimation of heterogeneous parameter discrete choice models. I am also interested in the application of machine learning methods in this context.
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
