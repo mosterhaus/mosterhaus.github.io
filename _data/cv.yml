@@ -2,11 +2,17 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Maximilian Osterhaus
+    - name: Address
+      value: University of Groningen 
+    - name: 
+      value: Department of Economics, Econometrics and Finance
+    - name: 
+      value: Nettelbosje 2
+    - name: 
+      value: 9747AE Groningen
+    - name: 
+      value: The Netherlands
 
 - title: Education
   type: time_table
