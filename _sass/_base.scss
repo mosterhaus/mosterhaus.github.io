@@ -94,7 +94,7 @@ blockquote {
 
 .profile {
   margin-left: 1rem;
-  width: 100%;
+  width: 150%;
 
   .address {
     margin-bottom: 5px;
@@ -135,7 +135,7 @@ blockquote {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
-  opacity: 0.95;
+  opacity: 1;
 }
 .navbar .dropdown-menu {
   background-color: var(--global-bg-color);
@@ -248,10 +248,11 @@ blockquote {
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2.5rem;
     a {
       i::before {
-        color: var(--global-text-color);
+        margin: 15px;
+        color: var(--global-theme-color);
         transition-property: all 0.2s ease-in-out;
       }
       &:hover {
@@ -262,7 +263,7 @@ blockquote {
     }
   }
   .contact-note {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 }
 
@@ -270,7 +271,7 @@ blockquote {
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   .container {
     color: var(--global-footer-text-color);
     padding-top: 9px;
@@ -402,7 +403,7 @@ footer.sticky-bottom {
 }
 
 
-// Projects
+// Research
 
 .projects {
   a {
